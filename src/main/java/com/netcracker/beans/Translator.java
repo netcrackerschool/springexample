@@ -11,4 +11,6 @@ public class Translator {
     public String getTranslation(){
         return "The word is \""+dictionary.getWord()+"\"";
     }
+
+    //new commit
 }
